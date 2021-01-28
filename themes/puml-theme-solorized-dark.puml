@@ -1,0 +1,82 @@
+skinparam BackgroundColor 002b36
+skinparam shadowing false
+skinparam RoundCorner 7
+skinparam ArrowColor 839496
+
+
+skinparam ArrowFontColor 839496
+skinparam ArtifactFontColor 073642
+skinparam CaptionFontColor 839496
+skinparam CardFontColor 073642
+skinparam CloudFontColor 073642
+skinparam UsecaseFontColor 073642
+
+skinparam SequenceLifeLineBorderColor 696969
+skinparam SequenceLifeLineBorderThickness 2
+
+skinparam sequenceGroup {
+  HeaderFontColor 002b36
+  BackgroundColor b58900
+  FontColor 696969
+  BorderColor b58900
+  BorderThickness 2
+}
+
+skinparam sequenceDivider {
+    BorderColor 839496
+    BorderThickness 1
+    FontColor 839496
+}
+
+skinparam participant {
+    BackgroundColor FF6347
+    BorderColor 268bd2
+    FontColor FFFFFF
+}
+
+skinparam database {
+    BackgroundColor 00FFFF
+    BorderColor 454645
+    FontColor FFFFFF
+}
+
+skinparam entity {
+    BackgroundColor FFE552
+    BorderColor 839496
+    FontColor 839496
+}
+
+skinparam note {
+    BackgroundColor 93a1a1
+    BorderColor eee8d5
+    FontColor 073642
+}
+
+skinparam actor {
+    BackgroundColor 839496
+    BorderColor 839496
+    FontColor 839496
+}
+
+skinparam boundary {
+    BackgroundColor FFE552
+    BorderColor 839496
+    FontColor 839496
+}
+
+skinparam control {
+    BackgroundColor FFE552
+    BorderColor 839496
+    FontColor 839496
+}
+
+skinparam collections {
+    BackgroundColor FF6347
+    BorderColor FFFFFF
+    FontColor 839496
+}
+
+skinparam sequenceDelay{
+  FontColor 839496
+  
+}
