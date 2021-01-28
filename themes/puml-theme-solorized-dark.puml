@@ -2,7 +2,7 @@ skinparam BackgroundColor 002b36
 skinparam shadowing false
 skinparam RoundCorner 7
 skinparam ArrowColor 839496
-
+skinparam Padding 5 
 
 skinparam ArrowFontColor 839496
 skinparam ArtifactFontColor 073642
